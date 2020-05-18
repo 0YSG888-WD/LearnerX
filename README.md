@@ -24,3 +24,4 @@
 ### Predictor Index Zoom
 - Javscript based animation that turns informational text into alternating binary on scroll event.
 - Continues to add to ethos of the application while keeping the design curious and inviting. 
+- 
